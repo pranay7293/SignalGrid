@@ -26,6 +26,21 @@ This project was developed as part of a logic-based Unity interview task, with c
 6. Turn all tiles OFF to win
 
 ---
+## ▶️ Try It Now
+
+[![Play on WebGL](https://img.shields.io/badge/Play-WebGL-green?style=for-the-badge)](https://your-playable-link.com)
+
+> *Runs in browser. No download needed.*
+
+---
+
+## 📦 Download APK
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://your-apk-download-link.com)
+
+> *For Android devices. Allow installation from unknown sources.*
+
+---
 
 ## 🎮 Toggle Rules Implemented
 
