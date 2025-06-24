@@ -28,7 +28,7 @@ This project was developed as part of a logic-based Unity interview task, with c
 ---
 ## ▶️ Try It Now
 
-[![Play on WebGL](https://img.shields.io/badge/Play-WebGL-green?style=for-the-badge)](https://your-playable-link.com)
+[![Play on WebGL](https://img.shields.io/badge/Play-WebGL-green?style=for-the-badge)](https://pranaygamedev.itch.io/signal-grid)
 
 > *Runs in browser. No download needed.*
 
