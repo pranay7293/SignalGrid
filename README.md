@@ -36,7 +36,7 @@ This project was developed as part of a logic-based Unity interview task, with c
 
 ## 📦 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://your-apk-download-link.com)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://drive.google.com/file/d/17KgWoEf-8cCh8nOd4_rTqDuzaN5uUFCI/view?usp=sharing)
 
 > *For Android devices. Allow installation from unknown sources.*
 
